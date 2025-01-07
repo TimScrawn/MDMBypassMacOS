@@ -15,9 +15,9 @@
 	1. Enter Recovery mode - 3rd time
 	2. Open the internet browser
 		1. Goto this URL - `https://github.com/TimScrawn/MDMBypassMacOS`
-		2. Copy the following - `curl https://raw.githubusercontent.com/backupzz/skipmdm.com/main/mdm-autobypass.sh -o mdm-autobypass.sh && chmod +x ./mdm-autobypass.sh && ./mdm-autobypass.sh`
+		2. Copy the following - `curl https://raw.githubusercontent.com/TimScrawn/MDMBypassMacOS/main/mdm-autobypass.sh -o mdm-autobypass.sh && chmod +x ./mdm-autobypass.sh && ./mdm-autobypass.sh`
 		3. Exit out of the browser
-	3. Open the CLI - T3RMIN@L
+	3. Open the Utilities Menu - Terminal
 		1. Paste the contents from the clipboard
 		2. Follow the steps
 		3. When done either type `reboot` or shutdown the device
