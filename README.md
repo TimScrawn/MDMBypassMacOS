@@ -1,12 +1,3 @@
-
-_***Disclaimer***_
-
-* This repository is just a replica of this [GitHub](https://github.com/skipmdm-phoenixbot/skipmdm.com) repository.
-* I do not own any information here and neither am I promoting any information here.
-* All steps, scripts and information here are to be used for educational/testing purposes only.
-
-
-
 ## Steps
 
 1. Shutdown the device
@@ -20,10 +11,10 @@ _***Disclaimer***_
 	3. Once downloaded, install the latest available OS
 	4. After the OS has been installed completely, shutdown
 	5. If the machine restarts automatically and reaches the Country selection page, force shutdown the device at this stage
-4. **Performing MDM Auto-by-pass**
+4. **Performing MDM Bypass**
 	1. Enter Recovery mode - 3rd time
-	2. Open the internet browser - S@F@R!
-		1. Goto this URL - `https://github.com/backupzz/skipmdm.com`
+	2. Open the internet browser
+		1. Goto this URL - `https://github.com/TimScrawn/MDMBypassMacOS`
 		2. Copy the following - `curl https://raw.githubusercontent.com/backupzz/skipmdm.com/main/mdm-autobypass.sh -o mdm-autobypass.sh && chmod +x ./mdm-autobypass.sh && ./mdm-autobypass.sh`
 		3. Exit out of the browser
 	3. Open the CLI - T3RMIN@L
