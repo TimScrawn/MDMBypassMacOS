@@ -1,4 +1,3 @@
-# skipmdm.com
 
 _***Disclaimer***_
 
